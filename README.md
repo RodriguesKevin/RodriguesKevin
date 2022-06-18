@@ -1,6 +1,5 @@
  
 
-- 🔭 Today I work as a Front End
 - 🌱 Studying HTML/PHP/CSS/JAVASCRIPT
 
 <div align="center">
