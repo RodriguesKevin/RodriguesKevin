@@ -1,6 +1,6 @@
  
 
-- 🌱 Studying HTML/PHP/CSS/JAVASCRIPT
+- 🌱 Studying HTML/CSS/JAVASCRIPT/PYTHON
 
 <div align="center">
   <a href="https://github.com/RodriguesKevin">
